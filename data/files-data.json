@@ -1,5 +1,5 @@
 {
-  "nextId": 5,
+  "nextId": 6,
   "files": [
     {
       "id": 3,
@@ -9,6 +9,10 @@
     {
       "name": "t.tst",
       "id": 4
+    },
+    {
+      "name": "NODE",
+      "id": 5
     }
   ]
 }
